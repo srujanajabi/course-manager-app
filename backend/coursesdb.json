@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": "7382",
+      "name": "UI/UX",
+      "description": "Designing Course"
+    },
+    {
+      "id": "67dc",
+      "name": "test",
+      "description": "test"
+    },
+    {
+      "id": "34e4",
+      "name": "Graphic design",
+      "description": "Design course"
+    },
+    {
+      "id": "3e41",
+      "name": "xzc",
+      "description": "test"
+    },
+    {
+      "id": "4bbf",
+      "name": "DM",
+      "description": "Digital Marketing"
+    },
+    {
+      "id": "e539",
+      "name": "PHP",
+      "description": "Web Development"
+    }
+  ]
+}
